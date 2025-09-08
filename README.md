@@ -1,2 +1,4 @@
 # game551-Fall2025
 2025 AME551
+Name: Ying-Ju Chen
+ASU ID: 1234466144
